@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ai-Image-Generator-Api/static/css/main.18f4395c.css",
-    "main.js": "/Ai-Image-Generator-Api/static/js/main.d9056070.js",
-    "static/js/453.b389ec9a.chunk.js": "/Ai-Image-Generator-Api/static/js/453.b389ec9a.chunk.js",
-    "index.html": "/Ai-Image-Generator-Api/index.html",
-    "main.18f4395c.css.map": "/Ai-Image-Generator-Api/static/css/main.18f4395c.css.map",
-    "main.d9056070.js.map": "/Ai-Image-Generator-Api/static/js/main.d9056070.js.map",
-    "453.b389ec9a.chunk.js.map": "/Ai-Image-Generator-Api/static/js/453.b389ec9a.chunk.js.map"
+    "main.css": "/Anurag-codex/Ai-Accessibility-App/static/css/main.aa65d1cb.css",
+    "main.js": "/Anurag-codex/Ai-Accessibility-App/static/js/main.a1f0d0c6.js",
+    "static/js/453.da8d8d15.chunk.js": "/Anurag-codex/Ai-Accessibility-App/static/js/453.da8d8d15.chunk.js",
+    "index.html": "/Anurag-codex/Ai-Accessibility-App/index.html",
+    "main.aa65d1cb.css.map": "/Anurag-codex/Ai-Accessibility-App/static/css/main.aa65d1cb.css.map",
+    "main.a1f0d0c6.js.map": "/Anurag-codex/Ai-Accessibility-App/static/js/main.a1f0d0c6.js.map",
+    "453.da8d8d15.chunk.js.map": "/Anurag-codex/Ai-Accessibility-App/static/js/453.da8d8d15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f4395c.css",
-    "static/js/main.d9056070.js"
+    "static/css/main.aa65d1cb.css",
+    "static/js/main.a1f0d0c6.js"
   ]
 }
